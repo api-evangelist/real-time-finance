@@ -39,7 +39,6 @@ apis:
   - name: Real Time Finance
     description: "Websocket API to access realtime stock data"
     humanURL: https://github.com/Real-time-finance/finance-websocket-API/
-    baseURL: https://github.com/Real-time-finance/finance-websocket-API/
     tags:
       - Finance
     properties:
